@@ -1,0 +1,5 @@
+# This is a generated file, do not edit
+moduleName=UMscripting
+moduleVersion=1.0
+extensionClasses=org.ultramine.mods.scripting.mcutil.ext.PlayerMethodExtension,org.ultramine.mods.scripting.mcutil.ext.WorldMethodExtension,org.ultramine.mods.scripting.mcutil.ext.EventsMethodExtension,org.ultramine.mods.scripting.mcutil.ext.ItemStackMethodExtension,org.ultramine.mods.scripting.mcutil.ext.WorldDescriptorMethodExtension,org.ultramine.mods.scripting.mcutil.ext.ChatMessagesMethodExtension,org.ultramine.mods.scripting.mcutil.ext.CommandContextMethodExtension,org.ultramine.mods.scripting.mcutil.ext.IInventoryMethodExtension,org.ultramine.mods.scripting.mcutil.ext.EntityLivingBaseMethodExtension,org.ultramine.mods.scripting.mcutil.ext.NBTMethodExtension
+staticExtensionClasses=org.ultramine.mods.scripting.mcutil.ext.NBTStaticMethodExtension
